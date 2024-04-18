@@ -1,0 +1,43 @@
+/*.Parrafo{
+    font-size: 20px; color: rgb(39, 82, 183);
+}
+
+body{
+    background-color: rgb(122, 128, 129);
+}
+
+.Titulo{
+    background-color: rgb(195, 43, 43);
+}*/
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.Titulo{
+    margin-left: 569px;
+    color: rgb(255, 255, 255);
+}
+
+.FormDatos{
+    width: 400px;
+    padding: 50px;
+    background-color: rgb(103, 93, 93);
+    border-radius: 20px;
+    margin: 50px;
+    border: 5px solid rgb(114, 88, 88);
+}
+
+.input{
+    padding: 5px;
+    width: 400px;
+    border-radius: 20px;
+}
+
+.BTNENV{
+    margin-inline: 10px;
+    width: 400px;
+    border-radius: 10px;
+}
+
